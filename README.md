@@ -1,6 +1,6 @@
 ## IODRNN
 This is the source code of the model named IODRNN published in the EAAI Journal.
-### Some Words Ahead
+### One word that has been said before 
  **This model was implemented nearly two years ago, sorry for the late...**
 
 Welcome to play with this architecture and the metric designed to evaluate the latency in the forecast results.
