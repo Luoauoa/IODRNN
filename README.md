@@ -1,4 +1,4 @@
-## IODRNN
+## IODRNN - Incremental output decomposition for a valid traffic flow prediction with GNSS data
 This is the source code of the model named IODRNN published in the EAAI Journal.
 ****
 ### One word that has been said before 
