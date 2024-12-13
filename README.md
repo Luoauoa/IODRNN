@@ -10,20 +10,13 @@ This is an unmatured idea, further suggestions and improvements are also welcome
 If you feel interested in some of my designs and want to follow them,
 
 **please cite**
-
+```
 @article{lu2024iodrnn,
-
-  title={IODRNN-Incremental output decomposition for a valid traffic flow prediction with GNSS data},
-  
-  author={Lu, Yihang and Peng, Liqun and Xu, Shucai and others},
-  
-  journal={Engineering Applications of Artificial Intelligence},
-  
-  volume={128},
-  
-  pages={107520},
-  
-  year={2024},
-  
+  title={IODRNN-Incremental output decomposition for a valid traffic flow prediction with GNSS data},  
+  author={Lu, Yihang and Peng, Liqun and Xu, Shucai and others},  
+  journal={Engineering Applications of Artificial Intelligence},  
+  volume={128},  
+  pages={107520},  
+  year={2024},  
   publisher={Elsevier}
-} 
+} ```
