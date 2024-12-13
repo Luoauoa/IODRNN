@@ -4,7 +4,9 @@
 **This model was implemented nearly two years ago, sorry for the late...**
 
 Welcome to play with this architecture and the metric designed to evaluate the latency in the forecast results.
+
 This is an unmatured idea, further suggestions and improvements are also welcome.
+
 If you feel interested in some of my designs and want to follow them,
 
 **please cite**
