@@ -3,7 +3,7 @@ This is the source code of the model named IODRNN published in the EAAI Journal.
 ****
 ### One word that has been said before 
 
-**This model was implemented nearly two years ago (2022), sorry for the late...**
+**This model was implemented nearly two years ago (in 2022), sorry for the late...**
  
 Welcome to play with this architecture and the metric designed to evaluate the latency in the forecast results.
 
